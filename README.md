@@ -1,6 +1,8 @@
 # D-MOD
 
 new hypixel duping mod not patched yet
+
+`Pizza Client Breaks the mod dont use Pizza Client with D-MOD at the same time```
  
 RShift for menu
 
